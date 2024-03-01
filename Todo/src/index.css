@@ -1,0 +1,42 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: lightseagreen;
+}
+.add{
+    background-color:lightseagreen;
+    color: white;
+}
+.new-todo{
+    display: flex;
+    justify-content:center;
+}
+.mytodo{
+    display: flex;
+    justify-content:flex-start;
+    margin-top: 10px;
+}
+.select{
+    display: flex;
+    justify-content:flex-end;
+}
+.list{
+    width: 400px;
+    background-color:rgb(10, 239, 227);
+}
+/*.buttons{
+    display: flex;
+    justify-content:flex-end;
+}*/
+#btn1{
+    background-color:rgb(27, 129, 124) ;
+    color: white;
+}
+#btn2{
+    background-color:red;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
